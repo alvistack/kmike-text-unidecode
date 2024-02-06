@@ -1,0 +1,4 @@
+python-text-unidecode source: file-without-copyright-information
+python-text-unidecode source: no-debian-changes
+python-text-unidecode source: source-contains-prebuilt-windows-binary
+python-text-unidecode source: source-package-encodes-python-version
